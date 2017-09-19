@@ -1,4 +1,4 @@
-# Black Jack Calculator
+# Black Jack Calculator Daily Project
 
 Blackjack is a game where players try to get their hand of cards as close to the number 21 as possible without going over 21. 
 The premise is that you want to have a hand value that is closer to 21 than that of the dealer, without going over 21. If the 
